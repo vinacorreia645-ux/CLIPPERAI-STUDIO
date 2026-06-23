@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Clipper Studio",
+  "description": "Transforme vídeos longos em clipes virais curtos com legendas animadas por IA, pontuação de viralidade e templates customizáveis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
